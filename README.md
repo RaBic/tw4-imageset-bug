@@ -1,4 +1,4 @@
-# @tailwindcss/vite failes handling image-set() notations
+# @tailwindcss/vite fails handling image-set() notations
 
 when using image-set() CSS functional notations in a css file and processing them with the tailwind vite plugin,
 
